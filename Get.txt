@@ -1,0 +1,907 @@
+41.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.124817
+41.1758s RTProphet:GetBestLink(): 	 Indirect Link
+41.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.124817
+41.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:3) 0.75
+41.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.124817
+41.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:3) 0.75
+41.7344s RTProphet:GetBestLink(): 	 Indirect Link
+41.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.7564s RTProphet:GetBestLink(): 	 Indirect Link
+41.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.7589s RTProphet:GetBestLink(): 	 Indirect Link
+41.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.8168s RTProphet:GetBestLink(): 	 Indirect Link
+41.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.8258s RTProphet:GetBestLink(): 	 Indirect Link
+41.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.9454s RTProphet:GetBestLink(): 	 Indirect Link
+41.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+41.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+41.9465s RTProphet:GetBestLink(): 	 Indirect Link
+42s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42s RTProphet:GetBestLink(): 	 Indirect Link
+42.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.1758s RTProphet:GetBestLink(): 	 Indirect Link
+42.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.7564s RTProphet:GetBestLink(): 	 Indirect Link
+42.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.7589s RTProphet:GetBestLink(): 	 Indirect Link
+42.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.8168s RTProphet:GetBestLink(): 	 Indirect Link
+42.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.8258s RTProphet:GetBestLink(): 	 Indirect Link
+42.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.9454s RTProphet:GetBestLink(): 	 Indirect Link
+42.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+42.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+42.9465s RTProphet:GetBestLink(): 	 Indirect Link
+43s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43s RTProphet:GetBestLink(): 	 Indirect Link
+43.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.1758s RTProphet:GetBestLink(): 	 Indirect Link
+43.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+43.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.122989
+43.1759s RTProphet:GetBestLink(): 	 Indirect Link
+43.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+43.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.122989
+43.7376s RTProphet:GetBestLink(): 	 Indirect Link
+43.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.7564s RTProphet:GetBestLink(): 	 Indirect Link
+43.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.7589s RTProphet:GetBestLink(): 	 Indirect Link
+43.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.8168s RTProphet:GetBestLink(): 	 Indirect Link
+43.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.8258s RTProphet:GetBestLink(): 	 Indirect Link
+43.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.9454s RTProphet:GetBestLink(): 	 Indirect Link
+43.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+43.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+43.9465s RTProphet:GetBestLink(): 	 Indirect Link
+44s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44s RTProphet:GetBestLink(): 	 Indirect Link
+44.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.1758s RTProphet:GetBestLink(): 	 Indirect Link
+44.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+44.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.122989
+44.1759s RTProphet:GetBestLink(): 	 Indirect Link
+44.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+44.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.122989
+44.7376s RTProphet:GetBestLink(): 	 Indirect Link
+44.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.7564s RTProphet:GetBestLink(): 	 Indirect Link
+44.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.7589s RTProphet:GetBestLink(): 	 Indirect Link
+44.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.8168s RTProphet:GetBestLink(): 	 Indirect Link
+44.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.8258s RTProphet:GetBestLink(): 	 Indirect Link
+44.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.9454s RTProphet:GetBestLink(): 	 Indirect Link
+44.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+44.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+44.9465s RTProphet:GetBestLink(): 	 Indirect Link
+45s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+45s RTProphet:GetBestLink(): 	 Indirect Link
+45.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.123417
+45.1758s RTProphet:GetBestLink(): 	 Indirect Link
+45.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+45.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128031
+45.1759s RTProphet:GetBestLink(): 	 Indirect Link
+45.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.786603
+45.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.786603
+45.7344s RTProphet:GetBestLink(): 	 Indirect Link
+45.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+45.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128031
+45.7376s RTProphet:GetBestLink(): 	 Indirect Link
+45.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.7564s RTProphet:GetBestLink(): 	 Indirect Link
+45.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.7589s RTProphet:GetBestLink(): 	 Indirect Link
+45.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.8168s RTProphet:GetBestLink(): 	 Indirect Link
+45.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.8258s RTProphet:GetBestLink(): 	 Indirect Link
+45.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.9454s RTProphet:GetBestLink(): 	 Indirect Link
+45.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+45.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+45.9465s RTProphet:GetBestLink(): 	 Indirect Link
+46s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46s RTProphet:GetBestLink(): 	 Indirect Link
+46.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.1758s RTProphet:GetBestLink(): 	 Indirect Link
+46.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+46.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128031
+46.1759s RTProphet:GetBestLink(): 	 Indirect Link
+46.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.7344s RTProphet:GetBestLink(): 	 Indirect Link
+46.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+46.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128031
+46.7376s RTProphet:GetBestLink(): 	 Indirect Link
+46.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.7564s RTProphet:GetBestLink(): 	 Indirect Link
+46.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.7589s RTProphet:GetBestLink(): 	 Indirect Link
+46.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.8168s RTProphet:GetBestLink(): 	 Indirect Link
+46.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.8258s RTProphet:GetBestLink(): 	 Indirect Link
+46.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.9454s RTProphet:GetBestLink(): 	 Indirect Link
+46.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+46.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+46.9465s RTProphet:GetBestLink(): 	 Indirect Link
+47s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+47s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+47s RTProphet:GetBestLink(): 	 Indirect Link
+47.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+47.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.777777
+47.1758s RTProphet:GetBestLink(): 	 Indirect Link
+47.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+47.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128238
+47.1759s RTProphet:GetBestLink(): 	 Indirect Link
+47.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+47.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128238
+47.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.128238
+47.7043s RTProphet:GetBestLink(): 	 Indirect Link
+47.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.7344s RTProphet:GetBestLink(): 	 Indirect Link
+47.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+47.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+47.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+47.7376s RTProphet:GetBestLink(): 	 Indirect Link
+47.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.7564s RTProphet:GetBestLink(): 	 Indirect Link
+47.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.7589s RTProphet:GetBestLink(): 	 Indirect Link
+47.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.8168s RTProphet:GetBestLink(): 	 Indirect Link
+47.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.8258s RTProphet:GetBestLink(): 	 Indirect Link
+47.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.9454s RTProphet:GetBestLink(): 	 Indirect Link
+47.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+47.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+47.9465s RTProphet:GetBestLink(): 	 Indirect Link
+48s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48s RTProphet:GetBestLink(): 	 Indirect Link
+48.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.1758s RTProphet:GetBestLink(): 	 Indirect Link
+48.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+48.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+48.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+48.1759s RTProphet:GetBestLink(): 	 Indirect Link
+48.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+48.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+48.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+48.7043s RTProphet:GetBestLink(): 	 Indirect Link
+48.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.7344s RTProphet:GetBestLink(): 	 Indirect Link
+48.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+48.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+48.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.126876
+48.7376s RTProphet:GetBestLink(): 	 Indirect Link
+48.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.7564s RTProphet:GetBestLink(): 	 Indirect Link
+48.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.7589s RTProphet:GetBestLink(): 	 Indirect Link
+48.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.8168s RTProphet:GetBestLink(): 	 Indirect Link
+48.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.8258s RTProphet:GetBestLink(): 	 Indirect Link
+48.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.9454s RTProphet:GetBestLink(): 	 Indirect Link
+48.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+48.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+48.9465s RTProphet:GetBestLink(): 	 Indirect Link
+49s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+49s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+49s RTProphet:GetBestLink(): 	 Indirect Link
+49.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+49.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.829661
+49.1758s RTProphet:GetBestLink(): 	 Indirect Link
+49.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+49.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+49.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+49.1759s RTProphet:GetBestLink(): 	 Indirect Link
+49.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+49.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+49.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+49.7043s RTProphet:GetBestLink(): 	 Indirect Link
+49.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.7344s RTProphet:GetBestLink(): 	 Indirect Link
+49.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+49.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+49.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+49.7376s RTProphet:GetBestLink(): 	 Indirect Link
+49.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.7564s RTProphet:GetBestLink(): 	 Indirect Link
+49.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.7589s RTProphet:GetBestLink(): 	 Indirect Link
+49.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.8168s RTProphet:GetBestLink(): 	 Indirect Link
+49.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.8258s RTProphet:GetBestLink(): 	 Indirect Link
+49.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.9454s RTProphet:GetBestLink(): 	 Indirect Link
+49.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+49.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+49.9465s RTProphet:GetBestLink(): 	 Indirect Link
+50s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50s RTProphet:GetBestLink(): 	 Indirect Link
+50.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.1758s RTProphet:GetBestLink(): 	 Indirect Link
+50.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+50.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+50.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+50.1759s RTProphet:GetBestLink(): 	 Indirect Link
+50.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+50.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+50.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+50.7043s RTProphet:GetBestLink(): 	 Indirect Link
+50.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.7344s RTProphet:GetBestLink(): 	 Indirect Link
+50.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+50.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+50.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.113556
+50.7376s RTProphet:GetBestLink(): 	 Indirect Link
+50.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.7564s RTProphet:GetBestLink(): 	 Indirect Link
+50.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.7589s RTProphet:GetBestLink(): 	 Indirect Link
+50.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.8168s RTProphet:GetBestLink(): 	 Indirect Link
+50.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.8258s RTProphet:GetBestLink(): 	 Indirect Link
+50.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.9454s RTProphet:GetBestLink(): 	 Indirect Link
+50.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+50.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+50.9465s RTProphet:GetBestLink(): 	 Indirect Link
+51s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+51s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866799
+51s RTProphet:GetBestLink(): 	 Indirect Link
+51.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832475
+51.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832475
+51.1758s RTProphet:GetBestLink(): 	 Indirect Link
+51.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+51.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+51.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+51.1759s RTProphet:GetBestLink(): 	 Indirect Link
+51.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+51.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+51.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+51.7043s RTProphet:GetBestLink(): 	 Indirect Link
+51.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.7344s RTProphet:GetBestLink(): 	 Indirect Link
+51.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+51.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+51.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+51.7376s RTProphet:GetBestLink(): 	 Indirect Link
+51.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.7564s RTProphet:GetBestLink(): 	 Indirect Link
+51.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.7589s RTProphet:GetBestLink(): 	 Indirect Link
+51.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.8168s RTProphet:GetBestLink(): 	 Indirect Link
+51.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.8258s RTProphet:GetBestLink(): 	 Indirect Link
+51.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.9454s RTProphet:GetBestLink(): 	 Indirect Link
+51.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+51.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+51.9465s RTProphet:GetBestLink(): 	 Indirect Link
+52s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52s RTProphet:GetBestLink(): 	 Indirect Link
+52.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.1758s RTProphet:GetBestLink(): 	 Indirect Link
+52.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+52.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+52.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+52.1759s RTProphet:GetBestLink(): 	 Indirect Link
+52.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+52.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+52.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+52.7043s RTProphet:GetBestLink(): 	 Indirect Link
+52.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.7344s RTProphet:GetBestLink(): 	 Indirect Link
+52.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+52.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+52.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.105845
+52.7376s RTProphet:GetBestLink(): 	 Indirect Link
+52.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.7564s RTProphet:GetBestLink(): 	 Indirect Link
+52.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.7589s RTProphet:GetBestLink(): 	 Indirect Link
+52.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.8168s RTProphet:GetBestLink(): 	 Indirect Link
+52.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.8258s RTProphet:GetBestLink(): 	 Indirect Link
+52.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.9454s RTProphet:GetBestLink(): 	 Indirect Link
+52.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+52.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+52.9465s RTProphet:GetBestLink(): 	 Indirect Link
+53s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+53s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+53s RTProphet:GetBestLink(): 	 Indirect Link
+53.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+53.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.866539
+53.1758s RTProphet:GetBestLink(): 	 Indirect Link
+53.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+53.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+53.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+53.1759s RTProphet:GetBestLink(): 	 Indirect Link
+53.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+53.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+53.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+53.7043s RTProphet:GetBestLink(): 	 Indirect Link
+53.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.7344s RTProphet:GetBestLink(): 	 Indirect Link
+53.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+53.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+53.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+53.7376s RTProphet:GetBestLink(): 	 Indirect Link
+53.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.7564s RTProphet:GetBestLink(): 	 Indirect Link
+53.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.7589s RTProphet:GetBestLink(): 	 Indirect Link
+53.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.8168s RTProphet:GetBestLink(): 	 Indirect Link
+53.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.8258s RTProphet:GetBestLink(): 	 Indirect Link
+53.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.9454s RTProphet:GetBestLink(): 	 Indirect Link
+53.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+53.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+53.9465s RTProphet:GetBestLink(): 	 Indirect Link
+54s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54s RTProphet:GetBestLink(): 	 Indirect Link
+54.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.1758s RTProphet:GetBestLink(): 	 Indirect Link
+54.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+54.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+54.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+54.1759s RTProphet:GetBestLink(): 	 Indirect Link
+54.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+54.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+54.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+54.7043s RTProphet:GetBestLink(): 	 Indirect Link
+54.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.7344s RTProphet:GetBestLink(): 	 Indirect Link
+54.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+54.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+54.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+54.7376s RTProphet:GetBestLink(): 	 Indirect Link
+54.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.7564s RTProphet:GetBestLink(): 	 Indirect Link
+54.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.7589s RTProphet:GetBestLink(): 	 Indirect Link
+54.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.8168s RTProphet:GetBestLink(): 	 Indirect Link
+54.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.8258s RTProphet:GetBestLink(): 	 Indirect Link
+54.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.9454s RTProphet:GetBestLink(): 	 Indirect Link
+54.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+54.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+54.9465s RTProphet:GetBestLink(): 	 Indirect Link
+55s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+55s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+55s RTProphet:GetBestLink(): 	 Indirect Link
+55.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+55.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.897199
+55.1758s RTProphet:GetBestLink(): 	 Indirect Link
+55.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+55.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+55.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+55.1759s RTProphet:GetBestLink(): 	 Indirect Link
+55.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+55.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+55.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+55.7043s RTProphet:GetBestLink(): 	 Indirect Link
+55.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.7344s RTProphet:GetBestLink(): 	 Indirect Link
+55.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+55.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+55.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+55.7376s RTProphet:GetBestLink(): 	 Indirect Link
+55.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.7564s RTProphet:GetBestLink(): 	 Indirect Link
+55.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.7589s RTProphet:GetBestLink(): 	 Indirect Link
+55.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.8168s RTProphet:GetBestLink(): 	 Indirect Link
+55.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.8258s RTProphet:GetBestLink(): 	 Indirect Link
+55.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.9454s RTProphet:GetBestLink(): 	 Indirect Link
+55.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+55.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+55.9465s RTProphet:GetBestLink(): 	 Indirect Link
+56s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56s RTProphet:GetBestLink(): 	 Indirect Link
+56.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.1758s RTProphet:GetBestLink(): 	 Indirect Link
+56.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+56.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+56.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+56.1759s RTProphet:GetBestLink(): 	 Indirect Link
+56.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+56.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+56.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+56.7043s RTProphet:GetBestLink(): 	 Indirect Link
+56.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.7344s RTProphet:GetBestLink(): 	 Indirect Link
+56.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+56.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+56.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+56.7376s RTProphet:GetBestLink(): 	 Indirect Link
+56.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.7564s RTProphet:GetBestLink(): 	 Indirect Link
+56.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.7589s RTProphet:GetBestLink(): 	 Indirect Link
+56.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.8168s RTProphet:GetBestLink(): 	 Indirect Link
+56.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.8258s RTProphet:GetBestLink(): 	 Indirect Link
+56.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.9454s RTProphet:GetBestLink(): 	 Indirect Link
+56.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+56.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+56.9465s RTProphet:GetBestLink(): 	 Indirect Link
+57s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+57s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+57s RTProphet:GetBestLink(): 	 Indirect Link
+57.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+57.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.887347
+57.1758s RTProphet:GetBestLink(): 	 Indirect Link
+57.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+57.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+57.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.104037
+57.1759s RTProphet:GetBestLink(): 	 Indirect Link
+57.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+57.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+57.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+57.7043s RTProphet:GetBestLink(): 	 Indirect Link
+57.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.7344s RTProphet:GetBestLink(): 	 Indirect Link
+57.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+57.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+57.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+57.7376s RTProphet:GetBestLink(): 	 Indirect Link
+57.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.7564s RTProphet:GetBestLink(): 	 Indirect Link
+57.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.7589s RTProphet:GetBestLink(): 	 Indirect Link
+57.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.8168s RTProphet:GetBestLink(): 	 Indirect Link
+57.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.8258s RTProphet:GetBestLink(): 	 Indirect Link
+57.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.9454s RTProphet:GetBestLink(): 	 Indirect Link
+57.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+57.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+57.9465s RTProphet:GetBestLink(): 	 Indirect Link
+58s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58s RTProphet:GetBestLink(): 	 Indirect Link
+58.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.1758s RTProphet:GetBestLink(): 	 Indirect Link
+58.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+58.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+58.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+58.1759s RTProphet:GetBestLink(): 	 Indirect Link
+58.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+58.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+58.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+58.7043s RTProphet:GetBestLink(): 	 Indirect Link
+58.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.7344s RTProphet:GetBestLink(): 	 Indirect Link
+58.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+58.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+58.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+58.7376s RTProphet:GetBestLink(): 	 Indirect Link
+58.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.7564s RTProphet:GetBestLink(): 	 Indirect Link
+58.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.7589s RTProphet:GetBestLink(): 	 Indirect Link
+58.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.8168s RTProphet:GetBestLink(): 	 Indirect Link
+58.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.8258s RTProphet:GetBestLink(): 	 Indirect Link
+58.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.9454s RTProphet:GetBestLink(): 	 Indirect Link
+58.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+58.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+58.9465s RTProphet:GetBestLink(): 	 Indirect Link
+59s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59s RTProphet:GetBestLink(): 	 Indirect Link
+59.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.1758s RTProphet:GetBestLink(): 	 Indirect Link
+59.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+59.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+59.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+59.1759s RTProphet:GetBestLink(): 	 Indirect Link
+59.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+59.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+59.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+59.7043s RTProphet:GetBestLink(): 	 Indirect Link
+59.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.7344s RTProphet:GetBestLink(): 	 Indirect Link
+59.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+59.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+59.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+59.7376s RTProphet:GetBestLink(): 	 Indirect Link
+59.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.7564s RTProphet:GetBestLink(): 	 Indirect Link
+59.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.7589s RTProphet:GetBestLink(): 	 Indirect Link
+59.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.8168s RTProphet:GetBestLink(): 	 Indirect Link
+59.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.8258s RTProphet:GetBestLink(): 	 Indirect Link
+59.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.9454s RTProphet:GetBestLink(): 	 Indirect Link
+59.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+59.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+59.9465s RTProphet:GetBestLink(): 	 Indirect Link
+60s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60s RTProphet:GetBestLink(): 	 Indirect Link
+60.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.1758s RTProphet:GetBestLink(): 	 Indirect Link
+60.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+60.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+60.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+60.1759s RTProphet:GetBestLink(): 	 Indirect Link
+60.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+60.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+60.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+60.7043s RTProphet:GetBestLink(): 	 Indirect Link
+60.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.7344s RTProphet:GetBestLink(): 	 Indirect Link
+60.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+60.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+60.7376s RTProphet:GetBestLink(): 	 Indirect Link
+60.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.7564s RTProphet:GetBestLink(): 	 Indirect Link
+60.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.7589s RTProphet:GetBestLink(): 	 Indirect Link
+60.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.8168s RTProphet:GetBestLink(): 	 Indirect Link
+60.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.8258s RTProphet:GetBestLink(): 	 Indirect Link
+60.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.9454s RTProphet:GetBestLink(): 	 Indirect Link
+60.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+60.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+60.9465s RTProphet:GetBestLink(): 	 Indirect Link
+61s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.913293
+61s RTProphet:GetBestLink(): 	 Indirect Link
+61.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.842394
+61.1758s RTProphet:GetBestLink(): 	 Indirect Link
+61.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+61.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+61.1759s RTProphet:GetBestLink(): 	 Indirect Link
+61.7043s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+61.7043s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+61.7043s RTProphet:GetBestLink(): 	 Indirect Link
+61.7344s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.7344s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.7344s RTProphet:GetBestLink(): 	 Indirect Link
+61.7376s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+61.7376s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+61.7376s RTProphet:GetBestLink(): 	 Indirect Link
+61.7564s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.7564s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.7564s RTProphet:GetBestLink(): 	 Indirect Link
+61.7589s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.7589s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.7589s RTProphet:GetBestLink(): 	 Indirect Link
+61.8168s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.8168s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.8168s RTProphet:GetBestLink(): 	 Indirect Link
+61.8258s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.8258s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.8258s RTProphet:GetBestLink(): 	 Indirect Link
+61.9454s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.9454s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.9454s RTProphet:GetBestLink(): 	 Indirect Link
+61.9465s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+61.9465s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+61.9465s RTProphet:GetBestLink(): 	 Indirect Link
+62s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+62s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+62s RTProphet:GetBestLink(): 	 Indirect Link
+62.1758s RTProphet:GetBestLink(): 	 Link Source = dtn:0 Destination = dtn:2
+62.1758s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.832942
+62.1758s RTProphet:GetBestLink(): 	 Indirect Link
+62.1759s RTProphet:GetBestLink(): 	 Link Source = dtn:3 Destination = dtn:2
+62.1759s RTProphet:GetBestLink(): Remote Probability: (dtn:2) 0.102872
+62.1759s RTProphet:GetBestLink(): 	 Indirect Link

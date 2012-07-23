@@ -1,0 +1,21 @@
+$node_(0) set X_ 10.0
+$node_(0) set Y_ 10.0
+
+$node_(1) set X_ 100.0
+$node_(1) set Y_ 10.0
+
+
+$node_(2) set X_ 600.0
+$node_(2) set Y_ 10.0
+
+$node_(3) set X_ 1100.0
+$node_(3) set Y_ 10.0
+
+$node_(4) set X_ 1600.0
+$node_(4) set Y_ 10.0
+
+$node_(5) set X_ 2100.0
+$node_(5) set Y_ 10.0
+
+$ns_ at 0.01 "$node_(1) setdest 2100.0 10.0 30.0"
+
